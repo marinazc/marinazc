@@ -11,9 +11,10 @@
 </div>
 
 ## Cursos e certificações
-* Bacharelado em Ciência da Computação - Unoeste
 * IBM Data Analyst Professional Certificate
+  * [Projetos](https://github.com/marinazc/IBM-Data-Analyst) 
 * Bootcamp Data Analytics WomakersCode (em andamento)
+  * [Projetos](https://github.com/squad-ada-lovelace) 
 * Microsoft Power BI Certificate (em andamento)
 * Alura Formação Front-End: Javascript e React
 
